@@ -1,0 +1,19 @@
+<!doctype html>
+<hmtl lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>TEST4</title>
+</head>
+<body>
+  <script>
+    document.write(
+    "JavaScriptをやりはじめてからというもの" 
+    + "<br>"
+    + "ホームページを作るのが楽しくて楽しくて"
+    + "<br>"
+    + "しょうがないんです。"
+    + "<br>"
+    );
+  </script>
+</body>
+</html>

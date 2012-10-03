@@ -1,0 +1,12 @@
+<!doctype html>
+<hmtl lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>タイトル</title>
+</head>
+<body>
+  <script>
+    document.write("私の誕生日は11月27日です。");
+  </script>
+</body>
+</html>
